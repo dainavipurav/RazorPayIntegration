@@ -1,0 +1,2 @@
+rootProject.name='RazorPay Integration'
+include ':app'
